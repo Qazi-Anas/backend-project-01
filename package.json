@@ -1,0 +1,17 @@
+{
+  "name": "youtube_clone",
+  "version": "1.0.0",
+  "description": "Create a youtube clone learning from chai and backend video lactures",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "backend",
+    "node",
+    "express"
+  ],
+  "author": "Anas Yousaf",
+  "license": "ISC"
+}
